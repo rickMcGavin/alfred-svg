@@ -1,0 +1,18 @@
+{
+  "name": "svg-toolkit",
+  "version": "1.0.0",
+  "description": "Toolkit to compress SVGs and also convert them to CSS properties",
+  "main": "svg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick McGavin",
+  "license": "ISC",
+  "dependencies": {
+    "svgo": "^1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickMcGavin/alfred-svg.git"
+  }
+}
